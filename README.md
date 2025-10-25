@@ -14,7 +14,6 @@
 print('hello world')
 ```
 
-5.列表：数字后加.  如：
-1.list
-2.list
-3.list
+5.链接：方括号加链接名字;圆括号加链接地址  如
+
+[小破站](https://www.bilibili.com/)
