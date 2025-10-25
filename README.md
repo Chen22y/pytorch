@@ -26,3 +26,7 @@ print('hello world')
 |-|-|-|
 |data1|data2|data3|
 |data4|data5|data6|
+
+# 二、pytorch学习总结
+
+## 1.相关链接及内容概述
