@@ -13,3 +13,8 @@
 ```python
 print('hello world')
 ```
+
+5.列表：数字后加.  如：
+1.list
+2.list
+3.list
